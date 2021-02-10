@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_gvW2EGvREeuxLYvTCjsD7w" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_gvW2EWvREeuxLYvTCjsD7w" comment="" name="fileloc" prompt="fileloc?" promptNeeded="false" type="id_String" value="C:/Users/peddineni_aruna/Downloads/emp.txt"/>
+  <contextParameter xmi:id="_gvW2EmvREeuxLYvTCjsD7w" comment="" name="database_host" prompt="database_host?" promptNeeded="false" type="id_String" value="localhost"/>
+  <contextParameter xmi:id="_gvW2E2vREeuxLYvTCjsD7w" comment="" name="datalase_port" prompt="datalase_port?" promptNeeded="false" type="id_String" value="5432"/>
+  <contextParameter xmi:id="_gvW2FGvREeuxLYvTCjsD7w" comment="" name="database_name" prompt="database_name?" promptNeeded="false" type="id_String" value="annual"/>
+  <contextParameter xmi:id="_gvW2FWvREeuxLYvTCjsD7w" comment="" name="datalase_username" prompt="datalase_username?" promptNeeded="false" type="id_String" value="postgres"/>
+  <contextParameter xmi:id="_gvW2FmvREeuxLYvTCjsD7w" comment="" name="database_password" prompt="database_password?" promptNeeded="false" type="id_Password" value="enc:system.encryption.key.v1:Hq0zHrhsKpMBElOal5/AOKmAriIcFHSaf5LJFur7LCU="/>
+  <contextParameter xmi:id="_gvW2F2vREeuxLYvTCjsD7w" comment="" name="filter_val" prompt="filter_val?" promptNeeded="false" type="id_String" value="10"/>
+  <contextParameter xmi:id="_8n5DMGvREeuxLYvTCjsD7w" comment="" name="database_schema" prompt="database_schema?" promptNeeded="false" type="id_String" value="public"/>
+</talendfile:ContextType>
